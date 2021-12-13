@@ -1,0 +1,28 @@
+<!--
+  ~ Copyright (C) 2019 Google Inc.
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <string name="app_name">Adivinhe a palavra</string>
+    <string name="skip">Pular</string>
+    <string name="play_again">Jogar novamente</string>
+    <string name="you_scored">Você acertou</string>
+    <string name="title_text">adivinhe a palavra!</string>
+    <string name="play_button">Jogar</string>
+    <string name="get_ready">Vamos jogar</string>
+    <string name="got_it">Acertei</string>
+    <string name="end_game">Fim de Jogo</string>
+    <string name="word_is">A palavra é…</string>
+</resources>
